@@ -70,16 +70,18 @@ Quantity
 ✅ Sales Analysis by State
 ✅ Customer-wise Revenue Analysis
 ✅ Category-wise Quantity Distribution
+✅ Payment Mode Analysis
+✅ Sub-Category Profit Analysis
+
 
 
 📸 Screenshots / Demo
 Show what the dashboard looks like.
 https://github.com/GURNOOR20010/GURNOOR-ECOMMERCE-SALES-DASHBOARD/blob/main/GURNOORDASHBOARDECOMMERCE.png
+
+
 Dashboard Preview
 EXAMPLE:https://github.com/GURNOOR20010/GURNOOR-ECOMMERCE-SALES-DASHBOARD/blob/main/GURNOORDASHBOARDECOMMERCE.png
 
 
 
-✅ Payment Mode Analysis
-
-✅ Sub-Category Profit Analysis
