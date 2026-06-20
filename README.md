@@ -75,7 +75,7 @@ Quantity
 📸 Screenshots / Demo
 Show what the dashboard looks like.
 https://github.com/GURNOOR20010/GURNOOR-ECOMMERCE-SALES-DASHBOARD/blob/main/GURNOORDASHBOARDECOMMERCE.png
-### Dashboard Preview
+Dashboard Preview
 EXAMPLE:https://github.com/GURNOOR20010/GURNOOR-ECOMMERCE-SALES-DASHBOARD/blob/main/GURNOORDASHBOARDECOMMERCE.png
 
 
