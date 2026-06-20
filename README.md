@@ -71,8 +71,8 @@ Quantity
 ✅ Customer-wise Revenue Analysis
 ✅ Category-wise Quantity Distribution
 
-📸 Screenshots / Demo
 
+📸 Screenshots / Demo
 Show what the dashboard looks like.
 https://github.com/GURNOOR20010/GURNOOR-ECOMMERCE-SALES-DASHBOARD/blob/main/GURNOORDASHBOARDECOMMERCE.png
 ### Dashboard Preview
