@@ -62,8 +62,8 @@ Sales Amount
 Profit
 Quantity
 
-🎨 Dashboard Features
 
+🎨 Dashboard Features
 ✅ Interactive Filters (Quarter & State)
 ✅ Dynamic KPI Cards
 ✅ Profit Analysis by Month
